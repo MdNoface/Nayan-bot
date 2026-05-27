@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "SOHAG-BOT",
+  "BOTNAME": "BOT",
   "PREFIX": ".",
   "OPERATOR": [
-    "61552819703988",
-    "100000959749712"
+    "100064396950869",
+    ""
   ],
   "ADMINBOT": [
-    "61552819703988",
-    "61552819703988"
+    "100064396950869",
+    "100064396950869"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
